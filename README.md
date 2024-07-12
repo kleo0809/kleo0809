@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요. 저는 김지원입니다. 👋
 
 <!--
 **kleo0809/kleo0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+SSAFY 12기 Python 트랙 진행 중입니다.  
+앞으로 잘 부탁 드리겠습니다! 😃
